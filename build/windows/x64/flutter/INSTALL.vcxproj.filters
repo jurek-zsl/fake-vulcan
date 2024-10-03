@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\CMakeFiles\35bb9c4a627c787248f1c261bb03bf32\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6544D5C8-6D58-3838-9F2B-AAA9E2FC9FFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

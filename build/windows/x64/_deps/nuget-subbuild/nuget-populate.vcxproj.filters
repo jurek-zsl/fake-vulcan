@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\7fe7da272a832c8026455e6654e3220f\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\49c6e067616a01e2e89d01db002ad1a8\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\90fa604d139f99abdb48eada87a6804f\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\dor\.code\fake-vulcan\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CC444EED-E516-3FCA-9F7E-B1AA33A110F4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

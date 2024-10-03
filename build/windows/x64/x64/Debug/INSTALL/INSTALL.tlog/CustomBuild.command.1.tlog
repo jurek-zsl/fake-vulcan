@@ -1,0 +1,10 @@
+^C:\USERS\DOR\.CODE\FAKE-VULCAN\BUILD\WINDOWS\X64\CMAKEFILES\5D62B6654867B863EFF67DE0FD9CE216\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

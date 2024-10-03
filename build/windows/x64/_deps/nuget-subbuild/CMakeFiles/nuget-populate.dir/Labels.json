@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/90fa604d139f99abdb48eada87a6804f/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/49c6e067616a01e2e89d01db002ad1a8/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/dor/.code/fake-vulcan/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/7fe7da272a832c8026455e6654e3220f/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}
