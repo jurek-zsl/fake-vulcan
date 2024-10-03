@@ -1,0 +1,1 @@
+ C:\\Users\\dor\\.code\\fake-vulcan\\.dart_tool\\flutter_build\\5998546f96006a91782c5c1fc2b4d6a4\\native_assets.yaml: 
